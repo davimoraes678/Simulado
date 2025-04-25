@@ -1,0 +1,39 @@
+ *{margin:0}
+table{
+    width: 100%;
+    height: 100vh;
+    }
+
+    .linha1 {height: 150px;}
+    .linha2 {height: 150px;}
+    .linha3 {height: 200px;}
+    .linha4 {height: 65px;}
+    .linha5 {height: 65px;}
+
+    .td1 {width: 20%;}
+    .td2 {width: 80%;}
+    .td3 {width: 15%;}
+    .td4 {width: 21%;
+    text-align: center;
+    vertical-align: top}
+    .td5 {width: 17%;}
+    .td6 {width: 12%;}
+    .td7 {width: 5%;}
+    .td1 img{
+        float: right;
+    }
+    .td9 img{
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    p{
+        font-family: sans-serif;
+        font-size: large;
+        text-align: center;
+        padding-top: 30px;
+        padding-right: 120px;
+        padding-bottom: 50px;
+        padding-left: 120px;
+        text-align: justify;
+    }
